@@ -72,3 +72,10 @@ The data provided consists of observations of the responses given when an in-veh
 * Categorical columns with no value were filled in with the mode value for the column in question.
 * I decided to forego converting categorical columns to numeric values representing the categories, as I did not find it as helpful as I had initially believed.
 * The 'Y-Decoded' column was created to represent 'Accepted' (1) or 'Not Accepted' (0) as it is more readable than 1 or 0 as presented in the original 'Y' column. This enables the generation of more readable plots.
+
+## General Findings
+
+ Clearly stated problem for specific coupon group
+· Visualizations that demonstrate exploring differences in those who accepted and rejected the coupon
+· Interpretation of descriptive and inferential statistics is correct and concise
+· The findings are clearly stated in their own section with actionable items highlighted
