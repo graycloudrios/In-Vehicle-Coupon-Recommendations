@@ -23,7 +23,7 @@ File Structure:
   The notebook file associated with this assignment can be found here **==>>** [coupon-notebook.ipynb](https://github.com/graycloudrios/assignment-5.1/blob/main/coupon-notebook.ipynb)
 
 ## Data Description
-The data provided consists of observations of the responses given when an in-vehicle coupon is offered. The acceptance or refusal is recorded along with data regarding the individual responding. The data can be described as follows:
+The data provided consists of observations of the responses given when an in-vehicle coupon is offered. The acceptance or refusal is recorded along with data regarding the individual responding. The data can be described as follows (column description obtained here)[https://archive.ics.uci.edu/dataset/603/in+vehicle+coupon+recommendation] :
 
 * destination: No Urgent Place, Home, Work
 * passanger: Alone, Friend(s), Kid(s), Partner (who are the passengers in the car)
