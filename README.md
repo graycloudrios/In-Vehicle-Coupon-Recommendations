@@ -75,7 +75,22 @@ The data provided consists of observations of the responses given when an in-veh
 
 ## General Findings
 
- Clearly stated problem for specific coupon group
+* Initial reviews of acceptance ratios based on gender proved to be about an even distribution between both Male and Female
+* Direction information yielded to real data to analyze
+* Coffee shops have the most significant level of coupon acceptance among those with some college education, but fall off for those attending graduate programs.
+* It can be observed that those with higher incomes are not attracted to the idea of coupons that can be used as they travel from one place to another.
+* Although it can be seen that their travel destination does affect coupon acceptance (those with no urgent place to go accept the coupon more frequently), it is essential to note that the hours before and after the commute appear to have more coupons accepted.
+* Males travelling alone are a prime opportunity if their income is under $75k and they are travelling alone.
+
+## Opportunities
+
+* Although the data gathered is intended for a population of drivers, it is vital to take into account pedestrian opportunities.
+* Pedestrian traffic on the weekends is likely to provide greater coupon acceptance when people are looking for a place to go.
+* Restricting to only drivers is limiting the audience artificially.
+* 
+
+
+Clearly stated problem for a specific coupon group
 · Visualizations that demonstrate exploring differences in those who accepted and rejected the coupon
 · Interpretation of descriptive and inferential statistics is correct and concise
 · The findings are clearly stated in their own section with actionable items highlighted
