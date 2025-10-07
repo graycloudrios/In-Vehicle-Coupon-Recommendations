@@ -5,6 +5,6 @@ Author: Graycloud Rios
 
 File Structure:
 
-  . Root Directory containing Jupiter Notebook and README file
+  . Root - Directory containing Jupiter Notebook and README file
   
-  ./Data Directory containing the data file
+  ./Data - Directory containing the data file
