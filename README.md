@@ -61,6 +61,8 @@ The data provided consists of observations of the responses given when an in-veh
 * direction_opp:1, 0 (feature meaning: whether the restaurant/bar is in the same direction as your current destination)
 * Y:1, 0 (whether the coupon is accepted)
 <br>
+
+
 ## Data Cleanup
 
 * The Y column, which indicates whether or not the coupon was accepted, was cleaned by removing any rows where this field had no data.
