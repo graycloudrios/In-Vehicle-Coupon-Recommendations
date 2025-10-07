@@ -87,10 +87,4 @@ The data provided consists of observations of the responses given when an in-veh
 * Although the data gathered is intended for a population of drivers, it is vital to take into account pedestrian opportunities.
 * Pedestrian traffic on the weekends is likely to provide greater coupon acceptance when people are looking for a place to go.
 * Restricting to only drivers is limiting the audience artificially.
-* 
-
-
-Clearly stated problem for a specific coupon group
-· Visualizations that demonstrate exploring differences in those who accepted and rejected the coupon
-· Interpretation of descriptive and inferential statistics is correct and concise
-· The findings are clearly stated in their own section with actionable items highlighted
+* There is no data in the observations regarding the day of the week. As can be seen from the data, those who are not in a hurry are more likely to accept the coupon. Identifying the day of the week will confirm the assumption that a lack of urgency creates an opportunity for coupon acceptance.
