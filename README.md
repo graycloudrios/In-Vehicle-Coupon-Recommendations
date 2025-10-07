@@ -62,6 +62,7 @@ The data provided consists of observations of the responses given when an in-veh
 * Y:1, 0 (whether the coupon is accepted)
 <br>
 ### Data Normalization and Cleanup <br>
+
 * Y column, which indicates whether or not the coupon was accepted, was cleaned by removing any rows where this field had no data.
 * 'passanger' column was renamed to correct the type to 'passenger'
 * Any numeric values that did not contain data were replaced with the median value for the column
