@@ -1,4 +1,4 @@
-# assignment-5.1
+# In-Vehicle Coupon Recommendations
 ## **Code and Data necessary for completion of assignment 5.1**
 
 
@@ -22,7 +22,7 @@ File Structure:
 
   The notebook file associated with this assignment can be found here **==>>** [coupon-notebook.ipynb](https://github.com/graycloudrios/assignment-5.1/blob/main/coupon-notebook.ipynb)
 
-## Data Description
+### Data Description
 The data provided consists of observations of the responses given when an in-vehicle coupon is offered. The acceptance or refusal is recorded along with data regarding the individual responding. The data can be described as follows ( [column descriptions obtained here](https://archive.ics.uci.edu/dataset/603/in+vehicle+coupon+recommendation) ):
 
 * destination: No Urgent Place, Home, Work
@@ -60,3 +60,13 @@ The data provided consists of observations of the responses given when an in-veh
 * direction_same:0, 1 (feature meaning: whether the restaurant/bar is in the same direction as your current destination)
 * direction_opp:1, 0 (feature meaning: whether the restaurant/bar is in the same direction as your current destination)
 * Y:1, 0 (whether the coupon is accepted)
+<br>
+### Data Normalization and Cleanup
+* Y column, which indicates whether or not the coupon was accepted, was cleaned by removing any rows where this field had no data.
+* 'passanger' column was renamed to correct the type to 'passenger'
+* Any numeric values that did not contain data were replaced with the median value for the column
+* Categorical columns were identified and printed to ensure values were as expected for the category
+* Categorical columns with no value were filled in with the mode value for the column in question.
+* I decided to forego converting categorical columns to numeric values representing the categories, as I did not find it as helpful as I had initially believed.
+* 'Y-Decoded' column was created to represent 'Accepted' (1) or 'Not Accepted' (0) as it is more readable than 1 or 0 as presented in the original 'Y' column.
+*   This allows for more readable plots to be generated.
