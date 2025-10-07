@@ -1,7 +1,7 @@
 # assignment-5.1
-Code and Data necessary for completion of assignment 5.1
-
-Author: Graycloud Rios
+**Code and Data necessary for completion of assignment 5.1
+**
+**Author**: Graycloud Rios
 
 File Structure:
 
@@ -19,4 +19,4 @@ File Structure:
   
   [coupons.csv](https://github.com/graycloudrios/assignment-5.1/blob/main/data/coupons.csv)
 
-  The notebook file associated with this assignment can be found here ==>>[coupon-notebook.ipynb](https://github.com/graycloudrios/assignment-5.1/blob/main/coupon-notebook.ipynb)
+  The notebook file associated with this assignment can be found here **==>>** [coupon-notebook.ipynb](https://github.com/graycloudrios/assignment-5.1/blob/main/coupon-notebook.ipynb)
