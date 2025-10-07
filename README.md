@@ -7,4 +7,4 @@ File Structure:
 
   . Root - Directory containing Jupiter Notebook and README file
   
-  ./Data - Directory containing the data file
+  ./data - Directory containing the data file
