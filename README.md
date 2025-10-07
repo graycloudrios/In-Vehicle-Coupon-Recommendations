@@ -63,11 +63,10 @@ The data provided consists of observations of the responses given when an in-veh
 <br>
 ### Data Normalization and Cleanup <br>
 
-* Y column, which indicates whether or not the coupon was accepted, was cleaned by removing any rows where this field had no data.
-* 'passanger' column was renamed to correct the type to 'passenger'
+* The Y column, which indicates whether or not the coupon was accepted, was cleaned by removing any rows where this field had no data.
+* The 'passanger' column was renamed to correct the type to 'passenger'
 * Any numeric values that did not contain data were replaced with the median value for the column
 * Categorical columns were identified and printed to ensure values were as expected for the category
 * Categorical columns with no value were filled in with the mode value for the column in question.
 * I decided to forego converting categorical columns to numeric values representing the categories, as I did not find it as helpful as I had initially believed.
-* 'Y-Decoded' column was created to represent 'Accepted' (1) or 'Not Accepted' (0) as it is more readable than 1 or 0 as presented in the original 'Y' column.
-*   This allows for more readable plots to be generated.
+* The 'Y-Decoded' column was created to represent 'Accepted' (1) or 'Not Accepted' (0) as it is more readable than 1 or 0 as presented in the original 'Y' column. This enables the generation of more readable plots.
