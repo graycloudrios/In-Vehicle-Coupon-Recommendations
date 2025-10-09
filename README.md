@@ -10,7 +10,7 @@ File Structure:
   
   Files:
   
-  [coupon-notebook.ipynb](https://github.com/graycloudrios/assignment-5.1/blob/main/coupon-notebook.ipynb)
+  [coupon-notebook.ipynb](coupon-notebook.ipynb)
 
   README.md - This file
   
