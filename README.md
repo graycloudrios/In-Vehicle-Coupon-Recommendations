@@ -2,7 +2,7 @@
 ## **Code and Data necessary for completion of assignment 5.1**
 
 
-**Author**: Graycloud Rios
+**Author**: Graycloud Rios is a seasoned technologist, storyteller, and creative thinker whose career spans decades in enterprise software engineering, financial systems, and AI innovation. Blending Native wisdom with modern tech, Graycloud crafts narratives, tools, and experiences that bridge tradition, transformation, and human connection.
 
 File Structure:
 
