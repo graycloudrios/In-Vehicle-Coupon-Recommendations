@@ -6,7 +6,7 @@
 
 File Structure:
 
-  ./ - Directory containing Jupiter Notebook and README file
+  **./** - Directory containing Jupiter Notebook and README file
   
   Files:
   
@@ -14,7 +14,7 @@ File Structure:
 
   README.md - This file
   
-  ./data - Directory containing the data file
+  **./data** - Directory containing the data file
 
   Files:
   
